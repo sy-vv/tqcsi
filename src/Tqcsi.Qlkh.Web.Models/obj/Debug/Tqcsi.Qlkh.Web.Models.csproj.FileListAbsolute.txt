@@ -1,0 +1,4 @@
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Models\bin\Debug\Tqcsi.Qlkh.Web.Models.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Models\bin\Debug\Tqcsi.Qlkh.Web.Models.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Models\obj\Debug\Tqcsi.Qlkh.Web.Models.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Models\obj\Debug\Tqcsi.Qlkh.Web.Models.pdb

@@ -1,0 +1,9 @@
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common\bin\Debug\Tqcsi.Qlkh.Common.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common\bin\Debug\Tqcsi.Qlkh.Common.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common\obj\Debug\Tqcsi.Qlkh.Common.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common\obj\Debug\Tqcsi.Qlkh.Common.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Common\bin\Debug\Tqcsi.Qlkh.Common.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Common\bin\Debug\Tqcsi.Qlkh.Common.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Common\obj\Debug\Tqcsi.Qlkh.Common.csprojResolveAssemblyReference.cache
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Common\obj\Debug\Tqcsi.Qlkh.Common.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Common\obj\Debug\Tqcsi.Qlkh.Common.pdb

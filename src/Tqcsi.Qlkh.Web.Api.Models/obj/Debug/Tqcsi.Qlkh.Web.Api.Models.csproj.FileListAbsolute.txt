@@ -1,0 +1,8 @@
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Web.Api.Models\bin\Debug\Tqcsi.Qlkh.Web.Api.Models.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Web.Api.Models\bin\Debug\Tqcsi.Qlkh.Web.Api.Models.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Web.Api.Models\obj\Debug\Tqcsi.Qlkh.Web.Api.Models.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Web.Api.Models\obj\Debug\Tqcsi.Qlkh.Web.Api.Models.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api.Models\bin\Debug\Tqcsi.Qlkh.Web.Api.Models.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api.Models\bin\Debug\Tqcsi.Qlkh.Web.Api.Models.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api.Models\obj\Debug\Tqcsi.Qlkh.Web.Api.Models.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api.Models\obj\Debug\Tqcsi.Qlkh.Web.Api.Models.pdb

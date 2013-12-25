@@ -1,0 +1,7 @@
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.SmokeTests\bin\Debug\Tqcsi.Qlkh.SmokeTests.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.SmokeTests\bin\Debug\Tqcsi.Qlkh.SmokeTests.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.SmokeTests\bin\Debug\nunit.framework.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.SmokeTests\bin\Debug\nunit.framework.xml
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.SmokeTests\obj\Debug\Tqcsi.Qlkh.SmokeTests.csprojResolveAssemblyReference.cache
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.SmokeTests\obj\Debug\Tqcsi.Qlkh.SmokeTests.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.SmokeTests\obj\Debug\Tqcsi.Qlkh.SmokeTests.pdb

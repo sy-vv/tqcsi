@@ -1,0 +1,5 @@
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data\bin\Debug\MVC4ServicesBook.Data.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data\bin\Debug\MVC4ServicesBook.Data.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data\obj\Debug\MVC4ServicesBook.Data.csprojResolveAssemblyReference.cache
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data\obj\Debug\MVC4ServicesBook.Data.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data\obj\Debug\MVC4ServicesBook.Data.pdb

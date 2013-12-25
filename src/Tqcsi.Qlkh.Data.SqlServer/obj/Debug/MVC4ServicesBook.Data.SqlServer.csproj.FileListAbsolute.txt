@@ -1,0 +1,15 @@
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\MVC4ServicesBook.Data.SqlServer.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\MVC4ServicesBook.Data.SqlServer.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\FluentNHibernate.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\Iesi.Collections.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\MVC4ServicesBook.Common.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\MVC4ServicesBook.Data.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\NHibernate.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\MVC4ServicesBook.Common.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\MVC4ServicesBook.Data.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\FluentNHibernate.xml
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\Iesi.Collections.xml
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\bin\Debug\NHibernate.xml
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\obj\Debug\MVC4ServicesBook.Data.SqlServer.csprojResolveAssemblyReference.cache
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\obj\Debug\MVC4ServicesBook.Data.SqlServer.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Data.SqlServer\obj\Debug\MVC4ServicesBook.Data.SqlServer.pdb

@@ -1,0 +1,9 @@
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common.Tests\bin\Debug\MVC4ServicesBook.Common.Tests.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common.Tests\bin\Debug\MVC4ServicesBook.Common.Tests.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common.Tests\bin\Debug\MVC4ServicesBook.Common.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common.Tests\bin\Debug\nunit.framework.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common.Tests\bin\Debug\MVC4ServicesBook.Common.pdb
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common.Tests\bin\Debug\nunit.framework.xml
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common.Tests\obj\Debug\MVC4ServicesBook.Common.Tests.csprojResolveAssemblyReference.cache
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common.Tests\obj\Debug\MVC4ServicesBook.Common.Tests.dll
+D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\MVC4ServicesBook.Common.Tests\obj\Debug\MVC4ServicesBook.Common.Tests.pdb
