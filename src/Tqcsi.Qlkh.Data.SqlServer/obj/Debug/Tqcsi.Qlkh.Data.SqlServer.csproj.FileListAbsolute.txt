@@ -28,3 +28,18 @@ D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tq
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Data.SqlServer\obj\Debug\Tqcsi.Qlkh.Data.SqlServer.csprojResolveAssemblyReference.cache
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Data.SqlServer\obj\Debug\Tqcsi.Qlkh.Data.SqlServer.dll
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Data.SqlServer\obj\Debug\Tqcsi.Qlkh.Data.SqlServer.pdb
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\Tqcsi.Qlkh.Data.SqlServer.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\Tqcsi.Qlkh.Data.SqlServer.pdb
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\FluentNHibernate.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\Iesi.Collections.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\NHibernate.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\Tqcsi.Qlkh.Common.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\Tqcsi.Qlkh.Data.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\Tqcsi.Qlkh.Common.pdb
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\Tqcsi.Qlkh.Data.pdb
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\FluentNHibernate.xml
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\Iesi.Collections.xml
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\bin\Debug\NHibernate.xml
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\obj\Debug\Tqcsi.Qlkh.Data.SqlServer.csprojResolveAssemblyReference.cache
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\obj\Debug\Tqcsi.Qlkh.Data.SqlServer.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data.SqlServer\obj\Debug\Tqcsi.Qlkh.Data.SqlServer.pdb

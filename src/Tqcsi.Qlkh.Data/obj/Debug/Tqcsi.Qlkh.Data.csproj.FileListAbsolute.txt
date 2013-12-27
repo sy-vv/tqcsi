@@ -7,3 +7,8 @@ D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tq
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Data\obj\Debug\Tqcsi.Qlkh.Data.csprojResolveAssemblyReference.cache
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Data\obj\Debug\Tqcsi.Qlkh.Data.dll
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Data\obj\Debug\Tqcsi.Qlkh.Data.pdb
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data\bin\Debug\Tqcsi.Qlkh.Data.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data\bin\Debug\Tqcsi.Qlkh.Data.pdb
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data\obj\Debug\Tqcsi.Qlkh.Data.csprojResolveAssemblyReference.cache
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data\obj\Debug\Tqcsi.Qlkh.Data.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Data\obj\Debug\Tqcsi.Qlkh.Data.pdb

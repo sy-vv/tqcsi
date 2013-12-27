@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{086988DF-F96B-47EF-91CB-0732583A6CB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tqcsi.Qlkh.Common", "Tqcsi.Qlkh.Common\Tqcsi.Qlkh.Common.csproj", "{8D91D0B5-95BA-4F87-B46E-2412DD743825}"
@@ -22,8 +24,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tqcsi.Qlkh.SmokeTests", "Tqcsi.Qlkh.SmokeTests\Tqcsi.Qlkh.SmokeTests.csproj", "{5F070957-34AD-40DE-8185-CFAF0F5C59C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tqcsi.Qlkh.Web.Common.Tests", "Tqcsi.Qlkh.Web.Common.Tests\Tqcsi.Qlkh.Web.Common.Tests.csproj", "{1704EDEE-DFAE-4BBF-A64B-225F4B3FBFB5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tqcsi.Qlkh.Web", "Tqcsi.Qlkh.Web\Tqcsi.Qlkh.Web.csproj", "{44604C0D-1C5C-4E76-A522-8107D07911F0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tqcsi.Qlkh.Web.Models", "Tqcsi.Qlkh.Web.Models\Tqcsi.Qlkh.Web.Models.csproj", "{5B058A2B-5A96-4A61-8FE3-B48B52F48B5B}"
 EndProject
@@ -73,10 +73,6 @@ Global
 		{1704EDEE-DFAE-4BBF-A64B-225F4B3FBFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1704EDEE-DFAE-4BBF-A64B-225F4B3FBFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1704EDEE-DFAE-4BBF-A64B-225F4B3FBFB5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{44604C0D-1C5C-4E76-A522-8107D07911F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44604C0D-1C5C-4E76-A522-8107D07911F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44604C0D-1C5C-4E76-A522-8107D07911F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44604C0D-1C5C-4E76-A522-8107D07911F0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5B058A2B-5A96-4A61-8FE3-B48B52F48B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5B058A2B-5A96-4A61-8FE3-B48B52F48B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B058A2B-5A96-4A61-8FE3-B48B52F48B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
