@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tqcsi.Qlkh.Web.Common.Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tqcsi.Qlkh.Web.Models", "Tqcsi.Qlkh.Web.Models\Tqcsi.Qlkh.Web.Models.csproj", "{5B058A2B-5A96-4A61-8FE3-B48B52F48B5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tqcsi.Qlkh.Web", "Tqcsi.Qlkh.Web\Tqcsi.Qlkh.Web.csproj", "{700F223B-F5D1-41FC-82DA-C1A4DF9A69CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{5B058A2B-5A96-4A61-8FE3-B48B52F48B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B058A2B-5A96-4A61-8FE3-B48B52F48B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B058A2B-5A96-4A61-8FE3-B48B52F48B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{700F223B-F5D1-41FC-82DA-C1A4DF9A69CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700F223B-F5D1-41FC-82DA-C1A4DF9A69CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700F223B-F5D1-41FC-82DA-C1A4DF9A69CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700F223B-F5D1-41FC-82DA-C1A4DF9A69CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
