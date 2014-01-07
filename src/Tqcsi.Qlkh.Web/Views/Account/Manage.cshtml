@@ -1,5 +1,4 @@
-﻿@using Tqcsi.Qlkh.Web.Models;
-@using Microsoft.AspNet.Identity;
+﻿@model Tqcsi.Qlkh.Web.Models.LocalPasswordModel
 @{
     ViewBag.Title = "Manage Account";
 }
@@ -7,6 +6,7 @@
 <h2>@ViewBag.Title.</h2>
 
 <p class="text-success">@ViewBag.StatusMessage</p>
+
 <div class="row">
     <div class="col-md-12">
         @if (ViewBag.HasLocalPassword)
@@ -14,13 +14,15 @@
             @Html.Partial("_ChangePasswordPartial")
         }
         else
-        {
+        { 
             @Html.Partial("_SetPasswordPartial")
         }
 
         <section id="externalLogins">
-            @Html.Action("RemoveAccountList")
-            @Html.Partial("_ExternalLoginsListPartial", new { Action = "LinkLogin", ReturnUrl = ViewBag.ReturnUrl })
+            @Html.Action("RemoveExternalLogins")
+
+            <h3>Add an external login</h3>
+            @Html.Action("ExternalLoginsList", new { ReturnUrl = ViewBag.ReturnUrl })
         </section>
     </div>
 </div>

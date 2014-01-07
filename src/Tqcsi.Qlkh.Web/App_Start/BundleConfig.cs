@@ -5,11 +5,11 @@ namespace Tqcsi.Qlkh.Web
 {
     public class BundleConfig
     {
-        // For more information on bundling, visit http://go.microsoft.com/fwlink/?LinkId=301862
+        // For more information on Bundling, visit http://go.microsoft.com/fwlink/?LinkId=254725
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/jquery-{version}.js"));
+                      "~/Scripts/jquery-{version}.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));
@@ -26,6 +26,14 @@ namespace Tqcsi.Qlkh.Web
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+            //Third Party plugins
+            bundles.Add(new ScriptBundle("~/bundles/thirdparty").Include(
+                     "~/Third_party/bootboxjs/bootbox.js"));
+
+            bundles.Add(new StyleBundle("~/Content/thirdparty").Include(
+                      "~/Third_party/fuelux/css/fuelux.css",
+                      "~/Third_party/fuelux/css/fuelux-responsive.css"));
         }
     }
 }

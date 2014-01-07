@@ -119,7 +119,6 @@ D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tq
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api\obj\Debug\Tqcsi.Qlkh.Web.Api.csprojResolveAssemblyReference.cache
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api\obj\Debug\Tqcsi.Qlkh.Web.Api.dll
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api\obj\Debug\Tqcsi.Qlkh.Web.Api.pdb
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\Tqcsi.Qlkh.Web.Api.dll.config
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\Tqcsi.Qlkh.Web.Api.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\Tqcsi.Qlkh.Web.Api.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\FluentNHibernate.dll
@@ -151,6 +150,8 @@ D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\Tqcsi.Qlkh.Data.SqlServe
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\Tqcsi.Qlkh.Web.Api.Models.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\Tqcsi.Qlkh.Web.Common.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\WebActivator.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\WebMatrix.Data.dll
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\WebMatrix.WebData.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\Tqcsi.Qlkh.Common.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\Tqcsi.Qlkh.Data.SqlServer.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\Tqcsi.Qlkh.Data.pdb
@@ -177,6 +178,8 @@ D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\System.Web.Razor.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\System.Web.WebPages.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\System.Web.WebPages.Deployment.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\System.Web.WebPages.Razor.xml
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\WebMatrix.Data.xml
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\bin\WebMatrix.WebData.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\obj\Debug\Tqcsi.Qlkh.Web.Api.csprojResolveAssemblyReference.cache
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\obj\Debug\Tqcsi.Qlkh.Web.Api.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api\obj\Debug\Tqcsi.Qlkh.Web.Api.pdb

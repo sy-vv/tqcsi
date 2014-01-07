@@ -7,6 +7,7 @@ namespace Tqcsi.Qlkh.Data.SqlServer.Mapping
     {
         public CustomerMap()
         {
+            Id(x => x.Id);
             Map(x => x.CustomerName).Not.Nullable();
             Map(x => x.Address).Nullable();
             Map(x => x.Director).Nullable();

@@ -64,10 +64,6 @@
       <Project>{4e76bfb0-d188-4772-9238-318c3f4cfb21}</Project>
       <Name>Tqcsi.Qlkh.Web.Api.Models</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Tqcsi.Qlkh.Web.Api\Tqcsi.Qlkh.Web.Api.csproj">
-      <Project>{be711732-2770-4a9e-893e-948a4d5129ef}</Project>
-      <Name>Tqcsi.Qlkh.Web.Api</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Tqcsi.Qlkh.Web.Common\Tqcsi.Qlkh.Web.Common.csproj">
       <Project>{2bf83c7e-173b-4d8b-a0b8-858a4f0dac6f}</Project>
       <Name>Tqcsi.Qlkh.Web.Common</Name>

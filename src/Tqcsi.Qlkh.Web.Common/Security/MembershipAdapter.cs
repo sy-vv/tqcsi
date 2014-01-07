@@ -9,7 +9,7 @@ namespace Tqcsi.Qlkh.Web.Common.Security
         public int GetUserId(string username)
         {
             var membership = (WebMatrix.WebData.SimpleMembershipProvider)Membership.Provider;
-            return this.GetUserId(username);
+            return membership.GetUserId(username);
         }
 
         public int CreateUser(string username, string password, string firstName, string lastName, string email)

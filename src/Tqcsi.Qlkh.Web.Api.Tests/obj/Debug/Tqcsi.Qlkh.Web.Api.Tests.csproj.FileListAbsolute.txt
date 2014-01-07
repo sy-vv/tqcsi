@@ -51,36 +51,26 @@ D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tq
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api.Tests\obj\Debug\Tqcsi.Qlkh.Web.Api.Tests.csprojResolveAssemblyReference.cache
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api.Tests\obj\Debug\MVC4ServicesBook.Web.Api.Tests.dll
 D:\My Projects\TQCSI_QLKH\Mvc4ServicesBook-master\Mvc4ServicesBook-master\src\Tqcsi.Qlkh.Web.Api.Tests\obj\Debug\MVC4ServicesBook.Web.Api.Tests.pdb
+D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\log4net.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\MVC4ServicesBook.Web.Api.Tests.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\MVC4ServicesBook.Web.Api.Tests.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Moq.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\nunit.framework.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Common.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Data.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Web.Api.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Web.Api.Models.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Web.Common.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\System.Web.Http.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Ninject.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\NHibernate.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Ninject.Web.Common.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\WebActivator.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Data.SqlServer.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\log4net.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\FluentNHibernate.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\System.Web.Http.OData.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Newtonsoft.Json.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Iesi.Collections.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Microsoft.Data.Edm.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Microsoft.Data.OData.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Microsoft.Data.OData.Contrib.dll
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\System.Spatial.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Common.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Data.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Web.Api.Models.pdb
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Web.Api.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Web.Common.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Moq.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Moq.xml
@@ -89,18 +79,9 @@ D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\System.Web.H
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Ninject.pdb
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Ninject.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\NHibernate.xml
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Ninject.Web.Common.pdb
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Ninject.Web.Common.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.xml
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Tqcsi.Qlkh.Data.SqlServer.pdb
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\log4net.xml
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\FluentNHibernate.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.xml
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Newtonsoft.Json.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Iesi.Collections.xml
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Microsoft.Data.Edm.xml
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\Microsoft.Data.OData.xml
-D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\bin\Debug\System.Spatial.xml
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\obj\Debug\Tqcsi.Qlkh.Web.Api.Tests.csprojResolveAssemblyReference.cache
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\obj\Debug\MVC4ServicesBook.Web.Api.Tests.dll
 D:\My Projects\My Gits\tqcsi\src\Tqcsi.Qlkh.Web.Api.Tests\obj\Debug\MVC4ServicesBook.Web.Api.Tests.pdb

@@ -11,6 +11,7 @@ namespace Tqcsi.Qlkh.Data.SqlServer.Mapping
     {
         public CustomerContactMap()
         {
+            Id(x => x.Id);
             Map(x => x.CustomerFeedback).Nullable();
             Map(x => x.Note).Nullable();
         }
